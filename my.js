@@ -15,7 +15,7 @@ document.getElementById('btn-1').addEventListener('click', function(){
     text = "";
     document.getElementById("myImg").src="./images/70e8957ec64793bcf30f0666c7c0b96e.jpg";
   }
-  else if(XXX == "pegion") {
+  else if(XXX == "pigeon") {
     text = "";
     document.getElementById("myImg").src="./images/pegion.jpg";
   }
